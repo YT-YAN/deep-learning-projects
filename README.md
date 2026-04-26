@@ -1,2 +1,2 @@
 # deep-learning-projects
-LeNet, AlexNet, VGG, GoogLeNet, ResNet, transformer, ViT, SD, IP-Adapter, Controlnet, DiT, MMDiT, Qwen, YOLO
+LeNet, AlexNet, VGG, GoogLeNet, ResNet, transformer, ViT, DiT, MMDiT, YOLO
